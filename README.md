@@ -1,1 +1,2 @@
-# Bayesian-Recommender-System
+# Bayesian(Probabilistic Matrix Factorization: Recommender-System)
+Used Probabilistic Matrix Factorization (PMF) to recommend Netflix users movies and TV shows using PyMC3. Proved the superiority of the Bayesian method against baseline models.
